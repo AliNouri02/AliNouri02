@@ -19,7 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://github.com/AliNouri02/chat-pdf">Tandis.</a>
+Current Project: <a href="https://github.com/AliNouri02/chat-pdf">......</a>
 
 <p align="center">
 
