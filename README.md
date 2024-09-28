@@ -19,7 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://github.com/AliNouri02/">Soshial.io</a>
+Current Project: <a href="https://www.soshial.io/">Soshial.io</a>
 
 <p align="center">
 
