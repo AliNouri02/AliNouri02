@@ -19,7 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://www.go.remail.ai/">remail.ai</a>
+Current Project: <a href="https://www.go.nily.ai/">nily.ai</a>
 
 <p align="center">
 
